@@ -1,0 +1,18 @@
+.navbar {
+    background-color: rgb(110, 197, 212);
+    
+  }
+  
+  .nav a.active {
+    background-color: #d6c139;
+    color: #211e1e;
+    border-radius: 8px;
+  }
+  
+  .nav a.inactive {
+    color: black;
+  }
+  .nav{
+    align-items: center;
+    
+  }
